@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-jms-app/pom.xml" />
         <option value="$PROJECT_DIR$/jms-message-service/jms-activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/event-driven/event-application/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
